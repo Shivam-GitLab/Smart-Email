@@ -14,7 +14,7 @@ A powerful and intelligent email assistant built with **Java**, **Spring Boot**,
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack =?
 
 | Layer        | Tech Used              |
 |--------------|------------------------|
