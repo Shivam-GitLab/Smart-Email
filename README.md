@@ -27,6 +27,7 @@ A powerful and intelligent email assistant built with **Java**, **Spring Boot**,
 
 ---
 
+
 ## 📂 Project Structure
 
 <pre lang="markdown"><code>## 📂 Project Structure ``` Smart-Email-Assistant/ ├── src/ │ ├── main/ │ │ ├── java/ │ │ │ └── com/smartemailassistant/ │ │ │ ├── controller/ │ │ │ ├── service/ │ │ │ ├── dto/ │ │ │ └── SmartEmailAssistantApplication.java │ │ └── resources/ │ │ └── application.properties ├── pom.xml └── README.md ``` </code></pre>
