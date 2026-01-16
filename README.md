@@ -1,4 +1,4 @@
-# 📧 Smart Email Assistant [ Email Reply ]
+# 📧 Smart Email Assistant
 
 A powerful and intelligent email assistant built with **Java**, **Spring Boot**, **Spring AI**, and **Gemini API**, designed to analyze, summarize, and manage emails with ease. It leverages **LLM (Large Language Model)** capabilities to provide smart responses and email insights via REST APIs.
 
